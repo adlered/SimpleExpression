@@ -1,2 +1,2 @@
 # SimpleExpression
-:bookmark: (Idea|Developing) Expressions simpler than regular expressions support most scenarios (under development: Java)
+:construction: 初步开发中，敬请期待！ | In the preliminary development, please look forward to! :construction:
